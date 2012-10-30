@@ -399,7 +399,7 @@ rsync.prepare = function(
 
 	crsync._computed = { true }
 	local computed = crsync._computed
-	local computedN = 1
+	local computedN = 2
 
 	local shortFlags = {
 		verbose            = 'v',
